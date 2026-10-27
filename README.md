@@ -1,11 +1,11 @@
-# Monokai
+# Sonokai Spectrum
 
-A high-contrast Monokai Pro theme for [Omarchy Quattro](https://github.com/omacom/omarchy).
+A high-contrast Sonokai theme for [Omarchy Quattro](https://github.com/omacom/omarchy).
 
 ## Install
 
 ```bash
-omarchy theme install https://github.com/bjarneo/omarchy-monokai-theme
+omarchy theme install https://github.com/pbaekgaard/sonokai-spectrum-omarchy
 ```
 
 ## Optional Neovim Theme
